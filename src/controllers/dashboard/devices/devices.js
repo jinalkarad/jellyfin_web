@@ -123,7 +123,7 @@ function load(page, devices) {
         deviceHtml += escapeHtml(device.CustomName || device.Name);
         deviceHtml += '</div>';
         deviceHtml += "<div class='cardText cardText-secondary'>";
-        deviceHtml += escapeHtml(device.AppName + ' ' + device.AppVersion);
+        deviceHtml += escapeHtml("vgfgfvgrfgfrgfrgv" + ' ' + device.AppVersion);
         deviceHtml += '</div>';
         deviceHtml += "<div class='cardText cardText-secondary'>";
 
